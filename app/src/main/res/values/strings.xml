@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Earthquakes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ic_settings">Menu</string>
+    <string name="tsunami">Earthquakes that caused tsunami</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
